@@ -1,1 +1,1 @@
-# Sample repository for Java Core concepts
+# Sample repository for Java coding concepts
